@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Montserrat:wght@700&family=Roboto+Serif&display=swap');
+
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Merriweather', serif;    
+}
+
+/* logo */
+
+#image_logo{
+    display: inline-block;
+    padding: 12px 25px;
+    color: white;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+span {
+    color: #ea1538;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* navbar
+ */
+.flex_navbar ul {
+    list-style-type: none;
+    margin: 0px;
+}
+
+.flex_navbar ul li {
+    text-decoration: none;
+    display: inline-block;
+    color: #fff;
+}
+
+.flex_navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000;
+}
+
+.flex_navbar ul li a {
+    padding: 12px 25px;
+    color: white;
+    text-decoration: none;
+}
+
+.flex_navbar ul li a:hover {
+    color: #ea1538;
+    transition: .3s;
+}
