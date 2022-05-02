@@ -63,3 +63,27 @@ span {
     height: 650px;
     
 }
+
+/* mediaquery */
+
+
+@media (max-width:950px) {
+
+
+}
+
+.row_section {
+    border: 5px solid black;
+    padding: 200px 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.column1 {
+    width: 20%;
+    
+    background-color: #ea1538;
+    display: inline-block;
+}
