@@ -72,6 +72,9 @@ span {
 
 }
 
+
+/* programming book section  */
+
 #book_heading {
     background-color: #112B3C;
     color: white;
@@ -82,7 +85,7 @@ span {
 
 .row_section {
     /* border: 5px solid black; */
-    padding: 70px 0 200px 0;
+    padding: 70px 0 50px 0;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -113,9 +116,18 @@ span {
     border-radius: 10px;
     text-align: center;
     margin: 30px auto;
-    padding: 10px;
+    /* padding: 10px; */
     color: #fff;
     font-size: 20px;
+    cursor: pointer;
+}
+
+.desc h2 a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 10px;
+
 }
 
 .desc h2:hover {
