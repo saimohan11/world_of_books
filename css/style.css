@@ -143,3 +143,63 @@ span {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 }
+
+/* about_us section */
+
+.about_us {
+    margin: 30px;
+    padding: 100px 0px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about_us::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+.my_image {
+    padding-left: 30px;
+}
+
+.my_image img {
+    width: 250px;
+    padding: 0px 0px;
+}
+
+.image_desc {
+    text-align: left;
+    padding: 0px 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.about_us2 {
+    margin: 30px;
+    padding: 100px 0px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about_us2::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+.image_desc2 {
+    text-align: left;
+    padding: 0px 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.my_image2 {
+    padding-right: 30px;
+}
+
+.my_image2 img {
+    width: 250px;
+    padding: 0px 0px;
+}
