@@ -291,3 +291,44 @@ span {
     color: #fff;
     background-color: green;
 }
+
+/* footer section */
+
+.footer_section {
+    margin: 0;
+}
+
+.contact_us {
+    padding-bottom: 20px;
+}
+
+
+.contact_us ul {
+    list-style-type: none;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.contact_us ul li a img  {
+    box-shadow: 0 4px 8px 0 rgba(62, 57, 57, 0.777), 0 6px 20px 0 rgba(65, 61, 61, 0.777);
+    border-radius: 50%;
+}
+
+.contact_us ul li {
+    display: inline-block;
+    padding:50px 15px 20px 15px;
+}
+
+.footer_desc {
+    text-align: center;
+    background-color: #112B3C;
+}
+
+.footer_desc h2 {
+    margin: 0;
+    color: white;
+    font-size: large;
+    text-transform: uppercase;
+    padding: 15px 0;
+}
