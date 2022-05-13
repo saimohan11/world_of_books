@@ -302,6 +302,14 @@ span {
     padding-bottom: 20px;
 }
 
+.contact_us header {
+    padding-top: 30px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: large;
+}
 
 .contact_us ul {
     list-style-type: none;
@@ -317,7 +325,7 @@ span {
 
 .contact_us ul li {
     display: inline-block;
-    padding:50px 15px 20px 15px;
+    padding:40px 15px 20px 15px;
 }
 
 .footer_desc {
