@@ -4,11 +4,11 @@ This is my Final Future Ready Talent project<br>
 
 ## Website Link: https://salmon-river-0df5ffa00.1.azurestaticapps.net/
 
-#Web Technologies used: HTML, CSS, JS, Bootstrap
+# Web Technologies used: HTML, CSS, JS, Bootstrap
 
 IDE: VS-Code
 
-#Note: azure app services used
+# Note: azure app services used
 
 ### Industry :
 Edtech
