@@ -65,9 +65,15 @@ span {
 }
 
 /* mediaquery */
-@media (max-width:950px) {
+@media (max-width:900px) {
 
-
+    .row_section {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .column1 {
+        flex: 50%;
+    }
 }
 
 
