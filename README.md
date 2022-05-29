@@ -6,9 +6,13 @@ This is my Final Future Ready Talent project<br>
 
 ### App service link: https://bookhelper.azurewebsites.net/
 
-# Web Technologies used: HTML, CSS, JS, Bootstrap
+# Web Technologies used: 
+### HTML, <br>
+### CSS, <br>
+### JS, <br>
+### Bootstrap
 
-IDE: VS-Code
+## IDE: VS-Code
 
 # Note: azure app services used
 
